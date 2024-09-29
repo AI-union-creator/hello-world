@@ -1,2 +1,2 @@
 # hello-world
-This repository is for practicing the GitHub Flow.
+Hello everyone! I'm a student interested in Programing. The life goal of me is to create AGI.
